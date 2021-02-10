@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36e978db22af411c8a98c2424e9f7eca, type: 3}
+  m_Name: NewDialogue
+  m_EditorClassIdentifier: 
+  liste:
+  - "Salut <b>Dodo</b> ! Comment \xE7a va ?"
+  - "\xC7a va pas trop, je me suis fait jart\xE9 de la maison blanche..."
+  - "Ah oui c'est vrai, en m\xEAme temps t'as merd\xE9 quand m\xEAme"
+  - "Ouais je sais mais au fond je pense que j'ai quand m\xEAme gagn\xE9"
+  - "Arr\xEAte de te faire du mal <i>Dodo</i>, tu t'es fait d\xE9glingu\xE9..."
+  - Vas-y je me casse tu me saoules
+  - Mais nan reviens ! On se mangera une gauffre la prochaine fois !
